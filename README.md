@@ -34,6 +34,9 @@ It is the look-back resistance across the load terminals when all the sources ar
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
 
+
+<img width="367" height="568" alt="image" src="https://github.com/user-attachments/assets/94f59f03-34a9-4ba9-8e68-9061fb3176e3" />
+
 To measure IL
 
 <img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
@@ -49,7 +52,10 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+**CALCULATION**
 
+
+<img width="290" height="762" alt="image" src="https://github.com/user-attachments/assets/88f814a7-576b-4348-a683-95b31ed38434" />
 
 **PROCEDURE:**
 
